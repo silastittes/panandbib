@@ -3,11 +3,11 @@ A collaborative annotated bibliography for panand project.
 
 Some guidelines for contributing to the panand.bib
 
-- To contribute, follow the proper protocols to submit pull requests. [https://kbroman.org/github_tutorial/pages/fork.html](Here's a nice how-to.)
+- To contribute, follow the proper protocols to submit pull requests. [Here's a nice how-to.](https://kbroman.org/github_tutorial/pages/fork.html)
 
 - All entries should have keys that are `abc` where `a` is the last name of the first author, `b` is the full year, and `c` is the first word of the title. All words (including author last name) should be lowercase (look over the `panand.bib` file for examples).
 
-- Make sure the format is correct. [https://www.andy-roberts.net/res/writing/latex/bibentries.pdf](Here's a nice guide] of the allowable entries and fields for bib format. Proper format can be verified with:
+- Make sure the format is correct. [Here's a nice guide](https://www.andy-roberts.net/res/writing/latex/bibentries.pdf) of the allowable entries and fields for bib format. Proper format can be verified with:
 
 ```
 biber --tool -V panand.bib
