@@ -3,7 +3,7 @@ A collaborative annotated bibliography for panand project.
 
 Some guidelines for contributing to the panand.bib
 
-- To contribute, follow the proper protocols to submit pull requests. [Here's a nice how-to.](https://kbroman.org/github_tutorial/pages/fork.html)
+- To contribute, follow the proper protocols to submit pull requests. [Here's a nice how-to](https://kbroman.org/github_tutorial/pages/fork.html). Note you should use [Silas's version](https://github.com/silastittes/panandbib) when you `add remote`.
 
 - All entries should have keys that are `abc` where `a` is the last name of the first author, `b` is the full year, and `c` is the first word of the title. All words (including author last name) should be lowercase (look over the `panand.bib` file for examples).
 
