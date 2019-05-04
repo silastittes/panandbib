@@ -20,7 +20,7 @@ biber --tool -V panand.bib
 - Avoid and remove overlapping entries.
 
 
--  There are a lot of ways to get a bib entry started. One easy approach is from Google Scholar. Find the desired paper, click the double quote icon under the main link, then click the BibTeX link from the pop-up page.
+-  There are a lot of ways to get a bib entry started. One easy approach is from Google Scholar. Find the desired paper, click the double quote icon under the main link, then click the BibTeX link from the pop-up page. From there, copy and paste the entry into the `panand.bib` file, add an `annote` field, and edit other fields as required.
 
 ![getbib](scholar.png)
  
